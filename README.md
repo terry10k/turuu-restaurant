@@ -1,4 +1,4 @@
-This is a project I made in an effort to learn React.
+This is a front-end project I made in an effort to learn React.
 
 The website was based on this Figma design:
 
