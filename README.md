@@ -1,7 +1,10 @@
 This is a project I made in an effort to learn React.
 
 The website was based on this Figma design:
+
 https://www.figma.com/design/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0-21&node-type=FRAME&t=1ACLcsVJWH7iXF8z-0
+
+
 All the credit for the design goes to https://iqonic.design/
 
 
